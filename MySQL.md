@@ -4,6 +4,20 @@
 
 [TOC]
 
+## 快速语句
+
+创建`Create`
+插入`Insert Into _Table Values()`
+外链接`Left\Right Join -- Union`
+排序`Order By --desc`
+分组`Group By`
+选择`Where`
+选择2`Having`
+显示`Limit`
+选择语句`Case When _t Then _r Else _r End`
+外键 `ForEign Key(_atb) References _Table(_atb)`
+主键`Primary Key`
+
 ## 语句
 
 | 语句   | 作用       |                     |
