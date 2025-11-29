@@ -26,6 +26,7 @@
 | FileExistsError   | 文件存在   |            |
 | FileNotFoundError | 找不到路径 |            |
 | TypeError         | 类型错误   | str + None |
+| KeyError          | 键值错误   |            |
 
 
 
